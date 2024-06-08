@@ -1,0 +1,69 @@
+.navbar{
+display: flex;
+height: 40px;
+padding:-10px;
+ margin-left: 70px;
+padding-left: 550px;
+}
+.navbar  li{
+    display: inline-block;
+    margin-right: 80px;
+}
+.butt{
+margin-left: 500px;
+color: blue;
+}
+.pho{
+ margin-left:500px; 
+}
+.heada{
+    background-color:rgba(230, 225, 225, 0.897); 
+}
+.pa{
+    width:100%;
+   background-color: blue;
+}
+.im{
+    display: flex;
+}
+.de{
+    width: 600px;
+}
+.lu{
+    display: flex;
+    height: 40px;
+     padding: -10px;
+     padding-left: 550px;
+     margin-left: 70px;
+     background-color: rgba(230, 225, 225, 0.897);
+}
+.lu li{
+    display: inline-block;
+    margin-right: 80px;
+   
+}
+
+cha{
+ font-size: 20px;
+ display: inline-flex; 
+}
+.voir{
+    margin-left: 500px;
+    background-color: blue;
+    width: 100px;
+}
+.port{
+ margin-left:600px;
+ padding: 100px;
+
+}
+.na{
+    display:flex;
+}
+.form{
+    background-color: blue;
+    width:200px;
+}
+.foot{
+    background-color:rgba(230, 225, 225, 0.897); 
+}
